@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+if you want to read dataset with python make sure to use the separator parameter "," insted of ";"
+df = pd.read_csv("split_dataset.csv", sep=',' )
