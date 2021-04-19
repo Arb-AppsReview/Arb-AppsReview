@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on My research project 
 - 🌱 I’m currently learning NLP and ML
-- - 📫 How to reach me: tbr2012@hotmail.com
+- 📫 How to reach me: tbr2012@hotmail.com
 - ⚡ Hint: if you want to read dataset with python make sure to use the separator parameter "," insted of ";"
 
